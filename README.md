@@ -4,7 +4,9 @@
 [![Latest build of RyanADivan-NoPubs.pdf](https://img.shields.io/badge/RyanADivan--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/RyanADivan-NoPubs.pdf)
 [![Latest build of RyanADivan-PubsOnly.pdf](https://img.shields.io/badge/RyanADivan--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/RyanADivan-PubsOnly.pdf)
 
-# Leo's curriculum vitae LaTeX source
+# Ryan's curriculum vitae LaTeX source
+
+This is directly adapted from Leo C. Stein's LaTeX CV source, found [here](https://github.com/duetosymmetry/cv).
 
 Please feel free to clone this repo if you like the style and want to use it for your CV.  If you're going to customize it, you need to know the layout of the contents:
 - [RyanADivan.tex](RyanADivan.tex): The top-level file. Compiling this
